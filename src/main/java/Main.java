@@ -26,6 +26,6 @@ public class Main {
     }
 
     private static void clearScreen() {
-
+        System.out.println("\n\n\n\n\n\n\n\n\n\n");
     }
 }
